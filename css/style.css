@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+}
+
+h1{
+    
+    font-family: 'Qwigley', cursive;
+    color: rgb(74, 218, 170);
+    margin-bottom: 0;
+    font-size: 90px;
+    padding-top: 200px;
+}
+
+h2, h3 {
+    color: rgb(74, 218, 170);
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top_container {
+    background-color: hsl(170, 76%, 92%);
+    padding-bottom: 400px;
+    margin-top: 0;
+}
+
+.button {
+    background-color: #a9f1f7;
+    border-radius: 10px;
+    height: 40px;
+    padding: 10px;
+    font-size: medium;
+    border: none;
+    color: white;
+}
+
+hr {
+    width: 10%;
+    color: rgba(90, 56, 5, 0.616);
+    border-style: dashed;
+}
+
+.last_container {
+    background-color: #07acf8;
+    height: 100px;
+    padding-top: 50px;
+}
+
+.about {
+    padding: 100px;
+}
+
+.skill {
+    padding: 100px;
+}
+
+.contact {
+    padding: 100px;
+}
+
+.image-skill {
+    padding-bottom: 100px;
+}
+
+.web {
+    text-decoration: none;
+    color: white;
+}
+
+.insta {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
